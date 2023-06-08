@@ -1,0 +1,25 @@
+{
+ "status": "success",
+ "generationTime": 2.920767068862915,
+ "id": 302455,
+ "output": [
+     "https://d1okzptojspljx.cloudfront.net/generations/05c3260d-6a2e-4aa5-82f0-e952f2a5fa10-0.png"
+ ],
+ "meta": {
+     "H": 512,
+     "W": 512,
+     "enable_attention_slicing": "true",
+     "file_prefix": "05c3260d-6a2e-4aa5-82f0-e952f2a5fa10",
+     "guidance_scale": 7.5,
+     "model": "runwayml/stable-diffusion-v1-5",
+     "n_samples": 1,
+     "negative_prompt": "((out of frame)), ((extra fingers)), mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), (((tiling))), ((naked)), ((tile)), ((fleshpile)), ((ugly)), (((abstract))), blurry, ((bad anatomy)), ((bad proportions)), ((extra limbs)), cloned face, (((skinny))), glitchy, ((extra breasts)), ((double torso)), ((extra arms)), ((extra hands)), ((mangled fingers)), ((missing breasts)), (missing lips), ((ugly face)), ((fat)), ((extra legs)), anime",
+     "outdir": "out",
+     "prompt": "ultra realistic close up portrait ((beautiful pale cyberpunk female with heavy black eyeliner)), blue eyes, shaved side haircut, hyper detail, cinematic lighting, magic neon, dark red city, Canon EOS R3, nikon, f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame, 8K",
+     "revision": "fp16",
+     "safety_checker": "none",
+     "seed": 1793745243,
+     "steps": 20,
+     "vae": "stabilityai/sd-vae-ft-mse"
+ }
+}
