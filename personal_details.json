@@ -1,0 +1,33 @@
+{
+	"status": true,
+	"message": "Personal records fetched successfully!",
+	"data": {
+		"id": 1,
+		"user_id": 7,
+		"age": 25,
+		"height": 7,
+		"weight": 70,
+		"blood_pressure": "88\/23",
+		"current_treatment": "[\"test treatment\"]",
+		"diseases": "[\"test disease\"]",
+		"created_at": 1970,
+		"updated_at": 1970,
+		"user": {
+			"id": 7,
+			"first_name": "Evans",
+			"last_name": "Wanyoike",
+			"email": "evanswanyoi@gmail.com",
+			"phone": "0723013562",
+			"email_verified_at": null,
+			"gender": "m",
+			"age": null,
+			"location": null,
+			"languages": null,
+			"image": null,
+			"status": 1,
+			"push_token": "fjhIerw0RbybouR8Pckp8E:APA91bEsRQS8uJ5xOoSgjleaoZ90ZwCpNpQDvZzfPsnz4rCP4-AOFGWOuz8ZzajCfua6_WOrSH4_O-Tly3zAaVAUKYdOnuUX_fHdPDHyfCCXUWPNEGReKyrGCdp8w6M2oVe08qDNaIpm",
+			"created_at": "2023-05-04T13:57:20.000000Z",
+			"updated_at": "2023-06-26T18:34:56.000000Z"
+		}
+	}
+}
