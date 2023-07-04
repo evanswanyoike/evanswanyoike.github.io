@@ -5,7 +5,7 @@
 		"id": 1,
 		"user_id": 7,
 		"age": 25,
-		"height": 7,
+		"height": 170,
 		"weight": 70,
 		"blood_pressure": "88\/23",
 		"current_treatment": "[\"test treatment\"]",
