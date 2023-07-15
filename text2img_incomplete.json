@@ -1,1 +1,26 @@
-
+{
+	"status": "processing",
+	"tip": "Your image is processing in background, you can get this image using fetch API: here is link for fetch api : https://stablediffusionapi.com/docs/community-models-api-v4/dreamboothfetchqueimg",
+	"eta": 22.1709312,
+	"messege": "Try to fetch request after seconds estimated",
+	"fetch_result": "https://stablediffusionapi.com/api/v3/fetch/28671338",
+	"id": 28671338,
+	"output": [],
+	"meta": {
+		"H": 1080,
+		"W": 1080,
+		"enable_attention_slicing": "true",
+		"file_prefix": "b4cb65d5-8608-49ba-ae0e-8ede83c76cd3",
+		"guidance_scale": 6,
+		"model": "runwayml/stable-diffusion-v1-5",
+		"n_samples": 2,
+		"negative_prompt": "",
+		"outdir": "out",
+		"prompt": "the alien apocalypse",
+		"revision": "fp16",
+		"safetychecker": "no",
+		"seed": 1043265155,
+		"steps": 20,
+		"vae": "stabilityai/sd-vae-ft-mse"
+	}
+}
