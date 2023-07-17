@@ -1,0 +1,43 @@
+{
+	"status": "processing",
+	"tip": "Your image is processing in background, you can get this image using fetch API: here is link for fetch api : https:\/\/stablediffusionapi.com\/docs\/community-models-api-v4\/dreamboothfetchqueimg",
+	"eta": 48.37294080000001,
+	"messege": "Try to fetch request after seconds estimated",
+	"webhook_status": "",
+	"fetch_result": "https:\/\/stablediffusionapi.com\/api\/v3\/dreambooth\/fetch\/29061801",
+	"id": 29061801,
+	"output": [],
+	"meta": {
+		"prompt": "mdjrny-v4 style futuristic skyscrappers",
+		"model_id": "midjourney",
+		"scheduler": "UniPCMultistepScheduler",
+		"safety_checker": "no",
+		"negative_prompt": "",
+		"W": 1080,
+		"H": 1080,
+		"guidance_scale": 7.5,
+		"init_image": "https:\/\/cdn.stablediffusionapi.com\/generations\/27483d59-13c2-4f46-b1c2-789b4e7414a8-3.png",
+		"steps": 20,
+		"n_samples": 3,
+		"strength": 0.8,
+		"multi_lingual": "no",
+		"tomesd": "yes",
+		"use_karras_sigmas": "yes",
+		"full_url": "no",
+		"upscale": "no",
+		"vae": null,
+		"lora": null,
+		"lora_strength": 1,
+		"seed": 3048712227,
+		"outdir": "out",
+		"file_prefix": "63cafd2f-0681-4d30-8daf-2d75ccb8cef5.png",
+		"clip_skip": 1,
+		"temp": "no",
+		"base64": "no"
+	},
+	"future_links": [
+		"https:\/\/cdn.stablediffusionapi.com\/generations\/0-63cafd2f-0681-4d30-8daf-2d75ccb8cef5.png",
+		"https:\/\/cdn.stablediffusionapi.com\/generations\/1-63cafd2f-0681-4d30-8daf-2d75ccb8cef5.png",
+		"https:\/\/cdn.stablediffusionapi.com\/generations\/2-63cafd2f-0681-4d30-8daf-2d75ccb8cef5.png"
+	]
+}
