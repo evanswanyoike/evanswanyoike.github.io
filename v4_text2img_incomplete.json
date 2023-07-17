@@ -1,0 +1,26 @@
+{
+	"status": "processing",
+	"tip": "Your image is processing in background, you can get this image using fetch API: here is link for fetch api : https:\/\/stablediffusionapi.com\/docs\/community-models-api-v4\/dreamboothfetchqueimg",
+	"eta": 44.3418624,
+	"messege": "Try to fetch request after seconds estimated",
+	"fetch_result": "https:\/\/stablediffusionapi.com\/api\/v3\/fetch\/29058107",
+	"id": 29058107,
+	"output": [],
+	"meta": {
+		"H": 1080,
+		"W": 1080,
+		"enable_attention_slicing": "true",
+		"file_prefix": "27483d59-13c2-4f46-b1c2-789b4e7414a8",
+		"guidance_scale": 7.5,
+		"model": "runwayml\/stable-diffusion-v1-5",
+		"n_samples": 4,
+		"negative_prompt": "",
+		"outdir": "out",
+		"prompt": "the start of the universe",
+		"revision": "fp16",
+		"safetychecker": "no",
+		"seed": 3967854271,
+		"steps": 20,
+		"vae": "stabilityai\/sd-vae-ft-mse"
+	}
+}
