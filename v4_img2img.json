@@ -1,0 +1,37 @@
+{
+	"status": "success",
+	"generationTime": 5.934197187423706,
+	"id": 29062603,
+	"output": [
+		"https:\/\/cdn.stablediffusionapi.com\/generations\/0-0b7afb5b-205e-48b4-b9f7-7cde19e58770.png"
+	],
+	"webhook_status": "",
+	"meta": {
+		"prompt": "mdjrny-v4 style futuristic skyscrappers",
+		"model_id": "midjourney",
+		"scheduler": "UniPCMultistepScheduler",
+		"safety_checker": "no",
+		"negative_prompt": "",
+		"W": 512,
+		"H": 512,
+		"guidance_scale": 7.5,
+		"init_image": "https:\/\/cdn.stablediffusionapi.com\/generations\/27483d59-13c2-4f46-b1c2-789b4e7414a8-3.png",
+		"steps": 20,
+		"n_samples": 1,
+		"strength": 0.8,
+		"multi_lingual": "no",
+		"tomesd": "yes",
+		"use_karras_sigmas": "yes",
+		"full_url": "no",
+		"upscale": "no",
+		"vae": null,
+		"lora": null,
+		"lora_strength": 1,
+		"seed": 2096683205,
+		"outdir": "out",
+		"file_prefix": "0b7afb5b-205e-48b4-b9f7-7cde19e58770.png",
+		"clip_skip": 1,
+		"temp": "no",
+		"base64": "no"
+	}
+}
