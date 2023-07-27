@@ -1,0 +1,43 @@
+{
+	"status": "success",
+	"generationTime": 6.048465728759766,
+	"id": 31341739,
+	"output": [
+		"https:\/\/cdn.stablediffusionapi.com\/generations\/0-2fa2ba36-fdba-4fbf-b615-b2b1d4b484b7.png"
+	],
+	"meta": {
+		"prompt": " a red rose, ultra high resolution, 4K image",
+		"model_id": "midjourney-v4",
+		"controlnet_model": "scribble",
+		"controlnet_type": "scribble",
+		"negative_prompt": "",
+		"scheduler": "UniPCMultistepScheduler",
+		"safety_checker": "no",
+		"auto_hint": "yes",
+		"guess_mode": "no",
+		"strength": "1",
+		"W": 512,
+		"H": 512,
+		"guidance_scale": 7.5,
+		"controlnet_conditioning_scale": 1,
+		"seed": 1774991007,
+		"multi_lingual": "no",
+		"use_karras_sigmas": "yes",
+		"tomesd": "yes",
+		"init_image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/ai-art-63eaa.appspot.com\/o\/scribbles%2Fimage%20-%202023-07-27%2011%3A14%3A22.589045.png?alt=media&token=798f5f71-125e-4533-b6f3-95c5e550e26a",
+		"mask_image": null,
+		"control_image": null,
+		"vae": null,
+		"steps": 20,
+		"full_url": "no",
+		"upscale": "no",
+		"n_samples": 1,
+		"embeddings": null,
+		"lora": "more_details",
+		"lora_strength": 1,
+		"temp": "no",
+		"base64": "no",
+		"clip_skip": 2,
+		"file_prefix": "2fa2ba36-fdba-4fbf-b615-b2b1d4b484b7.png"
+	}
+}
