@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "generationTime": 1.9110066890716553,
+  "id": 12384052,
+  "output": [
+    "https://pub-8b49af329fae499aa563997f5d4068a4.r2.dev/generations/e67183ee-73c1-45c4-84e7-0dec6f657d33-0.png"
+  ],
+  "meta": {
+    "H": 512,
+    "W": 512,
+    "file_prefix": "e67183ee-73c1-45c4-84e7-0dec6f657d33",
+    "guidance_scale": 7.5,
+    "init_image": "https://raw.githubusercontent.com/CompVis/stable-diffusion/main/data/inpainting_examples/overture-creations-5sI6fQgYIuo.png",
+    "mask_image": "https://raw.githubusercontent.com/CompVis/stable-diffusion/main/data/inpainting_examples/overture-creations-5sI6fQgYIuo_mask.png",
+    "n_samples": 1,
+    "negative_prompt": " ((out of frame)), ((extra fingers)), mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), (((tiling))), ((naked)), ((tile)), ((fleshpile)), ((ugly)), (((abstract))), blurry, ((bad anatomy)), ((bad proportions)), ((extra limbs)), cloned face, glitchy, ((extra breasts)), ((double torso)), ((extra arms)), ((extra hands)), ((mangled fingers)), ((missing breasts)), (missing lips), ((ugly face)), ((fat)), ((extra legs))",
+    "outdir": "out",
+    "prompt": "a cat sitting on a bench DSLR photography, sharp focus, Unreal Engine 5, Octane Render, Redshift, ((cinematic lighting)), f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame",
+    "safetychecker": "no",
+    "seed": 3163825381,
+    "steps": 20,
+    "strength": 0.7
+  }
+}
