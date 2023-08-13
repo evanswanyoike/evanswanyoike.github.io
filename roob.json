@@ -1,0 +1,27 @@
+{
+	"id": "reynpxlb7rqxql62rwmwkypsjq",
+	"version": "8c1e100ecabb3151cf1e6c62879b6de7a4b84602de464ed249b6cff0b86211d8",
+	"input": {
+		"enhance_face": false,
+		"keep_fps": true,
+		"keep_frames": true,
+		"source": "https://replicate.delivery/pbxt/Iuqa9NKGjfnWYxsRDRzTsHEvRDzAlmv2u20mk2PsLZ1ZRR8k/Reunia%CC%83o_com_o_ator_norte-americano_Keanu_Reeves_(cropped).jpg",
+		"target": "https://upload.wikimedia.org/wikipedia/en/d/d6/Superman_Man_of_Steel.jpg"
+	},
+	"logs": "source:  /tmp/tmp5y1p17rkReunião_com_o_ator_norte-americano_Keanu_Reeves_(cropped).jpg\ntarget:  /tmp/tmp9not3ciqSuperman_Man_of_Steel.jpg\nkeep_fps:  True\nkeep_frames:  True\n(336, 256, 3) None None\n/tmp/swapped-tmp9not3ciqSuperman_Man_of_Steel.jpg\nStatus: swap successful!\n",
+	"output": [
+		"https://pbxt.replicate.delivery/THB0g9nGxw43M1vV687m7gOGp8F1BSVUxfIr5z16QKNTtzsIA/swapped-tmp9not3ciqSuperman_Man_of_Steel.jpg"
+	],
+	"error": null,
+	"status": "succeeded",
+	"created_at": "2023-08-13T11:55:15.388987Z",
+	"started_at": "2023-08-13T11:55:15.427632Z",
+	"completed_at": "2023-08-13T11:55:18.935101Z",
+	"metrics": {
+		"predict_time": 3.507469
+	},
+	"urls": {
+		"cancel": "https://api.replicate.com/v1/predictions/reynpxlb7rqxql62rwmwkypsjq/cancel",
+		"get": "https://api.replicate.com/v1/predictions/reynpxlb7rqxql62rwmwkypsjq"
+	}
+}
