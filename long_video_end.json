@@ -1,0 +1,37 @@
+{
+	"id": "vmpb42jbgdpvnibaxxrwsemoee",
+	"version": "ca1f5e306e5721e19c473e0d094e6603f0456fe759c10715fcd6c1b79242d4a5",
+	"input": {
+		"film_interpolation": true,
+		"gif_frames_per_second": 20,
+		"gif_ping_pong": true,
+		"guidance_scale ": 7.5,
+		"height": 512,
+		"intermediate_output": false,
+		"num_animation_frames": 30,
+		"num_inference_steps": 30,
+		"num_interpolation_steps": 5,
+		"output_format": "mp4",
+		"prompt_end": "tall rectangular black monolith, a white room in the future with a bed, victorian details and a tall black monolith, a detailed matte painting by Wes Anderson, behance, light and space, reimagined by industrial light and magic, matte painting, criterion collection",
+		"prompt_start": "tall rectangular black monolith, monkeys in the desert looking at a large tall monolith, a detailed matte painting by Wes Anderson, behance, light and space, reimagined by industrial light and magic, matte painting, criterion collection",
+		"prompt_strength": 0.9,
+		"seed": -1,
+		"width": 512
+	},
+	"logs": "Using seed: -1\nGenerating initial latents for 2 steps\nGenerating first and last keyframes\nGenerating frame 0 of keyframe 0\nGenerating frame 1 of keyframe 0\nGenerating frame 2 of keyframe 0\nGenerating frame 3 of keyframe 0\nGenerating frame 4 of keyframe 0\nGenerating frame 5 of keyframe 0\nGenerating frame 6 of keyframe 0\nGenerating frame 7 of keyframe 0\nGenerating frame 8 of keyframe 0\nGenerating frame 9 of keyframe 0\nGenerating frame 10 of keyframe 0\nGenerating frame 11 of keyframe 0\nGenerating frame 12 of keyframe 0\nGenerating frame 13 of keyframe 0\nGenerating frame 14 of keyframe 0\nGenerating frame 15 of keyframe 0\nGenerating frame 16 of keyframe 0\nGenerating frame 17 of keyframe 0\nGenerating frame 18 of keyframe 0\nGenerating frame 19 of keyframe 0\nGenerating frame 20 of keyframe 0\nGenerating frame 21 of keyframe 0\nGenerating frame 22 of keyframe 0\nGenerating frame 23 of keyframe 0\nGenerating frame 24 of keyframe 0\nGenerating frame 25 of keyframe 0\nGenerating frame 26 of keyframe 0\nGenerating frame 27 of keyframe 0\nGenerating frame 28 of keyframe 0\nGenerating frame 29 of keyframe 0\nGenerating frame 0 of keyframe 1\nGenerating frame 1 of keyframe 1\nGenerating frame 2 of keyframe 1\nGenerating frame 3 of keyframe 1\nGenerating frame 4 of keyframe 1\nGenerating frame 5 of keyframe 1\nGenerating frame 6 of keyframe 1\nGenerating frame 7 of keyframe 1\nGenerating frame 8 of keyframe 1\nGenerating frame 9 of keyframe 1\nGenerating frame 10 of keyframe 1\nGenerating frame 11 of keyframe 1\nGenerating frame 12 of keyframe 1\nGenerating frame 13 of keyframe 1\nGenerating frame 14 of keyframe 1\nGenerating frame 15 of keyframe 1\nGenerating frame 16 of keyframe 1\nGenerating frame 17 of keyframe 1\nGenerating frame 18 of keyframe 1\nGenerating frame 19 of keyframe 1\nGenerating frame 20 of keyframe 1\nGenerating frame 21 of keyframe 1\nGenerating frame 22 of keyframe 1\nGenerating frame 23 of keyframe 1\nGenerating frame 24 of keyframe 1\nGenerating frame 25 of keyframe 1\nGenerating frame 26 of keyframe 1\nGenerating frame 27 of keyframe 1\nGenerating frame 28 of keyframe 1\nGenerating frame 29 of keyframe 1\nInterpolating images with FILM\nSaving MP4\n",
+	"output": [
+		"https://replicate.delivery/pbxt/CP4B2zGMJR6nFlM1bWmn9nwHS7DovCF46BGpKu8UfGNI5ftRA/output.mp4"
+	],
+	"error": null,
+	"status": "succeeded",
+	"created_at": "2023-10-14T07:55:48.320985Z",
+	"started_at": "2023-10-14T07:56:31.205249Z",
+	"completed_at": "2023-10-14T08:00:17.428172Z",
+	"metrics": {
+		"predict_time": 226.222923
+	},
+	"urls": {
+		"cancel": "https://api.replicate.com/v1/predictions/vmpb42jbgdpvnibaxxrwsemoee/cancel",
+		"get": "https://api.replicate.com/v1/predictions/vmpb42jbgdpvnibaxxrwsemoee"
+	}
+}
